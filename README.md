@@ -112,4 +112,4 @@ The project has two parts: **client side** and **server side**. For the client s
 
 <br/>
 
-## The application will be resumed soon
+## The work for application will be resumed soon
